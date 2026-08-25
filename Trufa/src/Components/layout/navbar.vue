@@ -1,6 +1,6 @@
 <script>
 export default{
-    name:'Navbar',
+    name:'Navbar'
 }
 
 </script>
@@ -8,8 +8,9 @@ export default{
 <template>
     <nav>
         <router-link to="/">Home</router-link>
-        <router-link to="/">Home</router-link>
-        <router-link to="/">Home</router-link>                
+        <router-link to="/atractivos">Atractivos</router-link>
+        <router-link to="/gastronomia">Gastronomia</router-link>
+        <router-link to="/contacto">Contacto</router-link>
     </nav>
 
 </template>
