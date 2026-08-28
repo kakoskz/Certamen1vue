@@ -1,12 +1,12 @@
-<script>
-    export default{
-        name: 'Home'
-    }
+<script setup>
+import carrusel from '@/Components/carrusel.vue';
 </script>
 
 <template>
+
     <div>
-        <h2>Bienvenidos a Chillan</h2>
+        <carrusel/>
+        <h1>Bienvenidos Linguini</h1>
     </div>
 
 
