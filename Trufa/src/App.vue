@@ -8,4 +8,8 @@ import Navbar from './Components/layout/navbar.vue';
   <router-view/>
 </template>
 
-<style scoped></style>
+<style scoped>
+.body{
+  margin: 0;
+}
+</style>
