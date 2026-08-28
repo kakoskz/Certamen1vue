@@ -9,7 +9,4 @@ import Navbar from './Components/layout/navbar.vue';
 </template>
 
 <style scoped>
-.body{
-  margin: 0;
-}
 </style>
